@@ -32,7 +32,7 @@ if [  -d "English-2" ]; then
 fi
 
 if [  -d "English-3" ]; then
-    tree -ai -L 1 English-2 >> $FILENAME
+    tree -ai -L 1 English-3 >> $FILENAME
     echo "" >> $FILENAME
     echo "English-3 directory processed"
 fi
