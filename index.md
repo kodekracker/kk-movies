@@ -7,24 +7,24 @@
 6. Dogma (1999)
 7. Fifty Shades of Grey (2015)
 8. Hidalgo (2004)
-9. Inherent Vice (2014)
-10. Master and Commander The Far Side of the World (2003)
-11. Patriot Games (1992)
-12. Rounders (1998)
-13. Seeking Justice (2011)
-14. Seventh Son (2014)
-15. Son of God (2014)
-16. The Boy Next Door (2015)
-17. The Corruptor (1999)
-18. The Gambler (2014)
-19. The Game (1997)
-20. The Girl With The Dragon Tattoo (2011)
-21. The Great Escape (1963)
-22. Three Kings (1999)
-23. Unbroken (2014)
-24. We Own the Night (2007)
-25. Witness (1985)
-
+9. In The Line of Fire (1993)
+10. Inherent Vice (2014)
+11. Master and Commander The Far Side of the World (2003)
+12. Patriot Games (1992)
+13. Rounders (1998)
+14. Seeking Justice (2011)
+15. Seventh Son (2014)
+16. Son of God (2014)
+17. The Boy Next Door (2015)
+18. The Corruptor (1999)
+19. The Gambler (2014)
+20. The Game (1997)
+21. The Girl With The Dragon Tattoo (2011)
+22. The Great Escape (1963)
+23. Three Kings (1999)
+24. Unbroken (2014)
+25. We Own the Night (2007)
+26. Witness (1985)
 
 #English-1
 1. Outlander (2008)
@@ -321,7 +321,6 @@
 292. The Great Gatsby (2013)
 293. The Grey (2012)
 
-
 #English-2
 1. Black Gold (2011)
 2. Enemy (2013)
@@ -406,7 +405,6 @@
 81. Kidnapping Mr. Heineken (2015)
 82. Kill the Messenger (2014)
 83. Kiss Kiss Bang Bang (2005)
-
 
 #English-3
 1. 12 Monkeys (1995)
@@ -543,7 +541,6 @@
 132. The Last Stand (2013)
 133. The Legend of Hercules (2014)
 
-
 #Series Addition
 1. Harry Potter Octalogy
 2. Ocean's Trilogy
@@ -610,5 +607,4 @@
 63. Mission Impossible Quadrilogy
 64. National Treasure Duology
 65. Night at the Museum Trilogy
-
 
