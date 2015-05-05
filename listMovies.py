@@ -1,6 +1,16 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
+#==================================================================
+# Set MOVIES_FOLDER_PATH environment variable in your
+# .bashrc file located in root of home directory
+# NOTE :: write this in .bashrc file in the end of file
+#
+# export MOVIES_FOLDER_PATH=write-path-here
+#
+# =================================================================
+
 import os
 import traceback
 
