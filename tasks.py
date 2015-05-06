@@ -4,7 +4,7 @@
 from invoke import task, run
 
 @task
-def runtask():
+def create():
     run('python listMovies.py')
 
 @task

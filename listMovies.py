@@ -7,7 +7,7 @@
 # .bashrc file located in root of home directory
 # NOTE :: write this in .bashrc file in the end of file
 #
-# export MOVIES_FOLDER_PATH=write-path-here
+# export MOVIES_FOLDER_PATH="path-to-movies-root-folder"
 #
 # =================================================================
 
@@ -37,5 +37,6 @@ def main():
     except:
         traceback.print_exc()
         print "Exception Occured, Something wrong happened."
+
 if __name__ == '__main__':
     main()
