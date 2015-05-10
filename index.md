@@ -1,41 +1,53 @@
 #Collection
-1. Seventh Son (2014)
-2. 22 Bullets (2010)
-3. Absolution (2015)
-4. American Sniper (2014)
-5. Blackhat (2015)
-6. Blade Runner (1982)
-7. Brothers (2009)
-8. Cloverfield (2008)
-9. Dogma (1999)
-10. Dying of the Light (2014)
-11. Fifty Shades of Grey (2015)
-12. Hereafter (2010)
-13. Hidalgo (2004)
-14. In The Line of Fire (1993)
-15. Inherent Vice (2014)
-16. Jupiter Ascending (2015)
-17. Kingsman The Secret Service (2014)
-18. Master and Commander The Far Side of the World (2003)
-19. Patriot Games (1992)
-20. Pulp Fiction (1994)
-21. Rounders (1998)
-22. Seeking Justice (2011)
-23. Son of God (2014)
-24. Stretch (2014)
-25. The Boy Next Door (2015)
-26. The Corruptor (1999)
-27. The Gambler (2014)
-28. The Game (1997)
-29. The Girl With The Dragon Tattoo (2011)
-30. The Great Escape (1963)
-31. The Magnificent Seven (1960)
-32. The Rock (1996)
-33. Three Kings (1999)
-34. Unbroken (2014)
-35. We Own the Night (2007)
-36. What Lies Beneath (2000)
-37. Witness (1985)
+1. Hereafter (2010)
+2. Seventh Son (2014)
+3. 22 Bullets (2010)
+4. 25th Hour (2002)
+5. Absolution (2015)
+6. American History X (1998)
+7. American Sniper (2014)
+8. Babel (2006)
+9. Blackhat (2015)
+10. Blade Runner (1982)
+11. Brothers (2009)
+12. Cloverfield (2008)
+13. Dogma (1999)
+14. Dying of the Light (2014)
+15. Fifty Shades of Grey (2015)
+16. Frida (2002)
+17. Son of God (2014)
+18. Stone (2010)
+19. Stretch (2014)
+20. The Assassination of Jesse James by the Coward Robert Ford (2007)
+21. The Boy Next Door (2015)
+22. The Corruptor (1999)
+23. The Gambler (2014)
+24. The Game (1997)
+25. The Girl With The Dragon Tattoo (2011)
+26. The Great Escape (1963)
+27. The Island (2005)
+28. The Magnificent Seven (1960)
+29. The People vs. Larry Flynt (1996)
+30. The Rock (1996)
+31. Three Kings (1999)
+32. Unbroken (2014)
+33. We Own the Night (2007)
+34. What Lies Beneath (2000)
+35. Witness (1985)
+36. Hidalgo (2004)
+37. In The Line of Fire (1993)
+38. Inglourious Basterds (2009)
+39. Inherent Vice (2014)
+40. Jupiter Ascending (2015)
+41. Kingsman The Secret Service (2014)
+42. Legends of the Fall (1994)
+43. Master and Commander The Far Side of the World (2003)
+44. Patriot Games (1992)
+45. Pearl Harbor (2001)
+46. Pulp Fiction (1994)
+47. Red Dragon (2002)
+48. Rounders (1998)
+49. Seeking Justice (2011)
 
 #English-1
 1. Outlander (2008)
@@ -342,80 +354,84 @@
 7. 500 Days Of Summer (2009)
 8. A Million Ways to Die in the West (2014)
 9. A Soldiers Story (1984)
-10. American Gangster (2007)
-11. Antwone Fisher (2002)
-12. Assassin (2014)
-13. Assault on Wall Street (2013)
-14. August Osage County (2013)
-15. Beautiful Creatures (2013)
-16. Before I Go to Sleep (2014)
-17. Birdman (2014)
-18. Liar Liar (1997)
-19. Lone Survivor (2013)
-20. Midnight in Paris (2011)
-21. Nightcrawler (2014)
-22. Out of Time (2003)
-23. Paddington (2014)
-24. Passenger 57 (1992)
-25. Philadelphia (1993)
-26. Point Break (1991)
-27. Raging Bull (1980)
-28. Rear Window (1954)
-29. Red Tails (2012)
-30. Ricochet (1991)
-31. Ronin (1998)
-32. Snowpiercer (2013)
-33. Son of a Gun (2014)
-34. Spartan (2004)
-35. St. Vincent (2014)
-36. Stoker (2013)
-37. The 40 Year Old Virgin (2005)
-38. The Big Lebowski (1998)
-39. The Blue Lagoon (1980)
-40. The Call (2013)
-41. The Day After Tomorrow (2004)
-42. The Fugitive (1993)
-43. The Imitation Game (2014)
-44. The Last King of Scotland (2006)
-45. The Loft (2015)
-46. The Number 23 (2007)
-47. The Other Woman (2014)
-48. The Physician (2013)
-49. The Road (2009)
-50. The Truman Show (1998)
-51. The Usual Suspects (1995)
-52. The Whistleblower (2010)
-53. The Woman in Black 2 Angel of Death (2014)
-54. There will be Blood (2007)
-55. To Rome with Love (2012)
-56. Training Day (2001)
-57. Under the Skin (2013)
-58. White Bird in a Blizzard (2014)
-59. Boys Don't Cry (1999)
-60. Brokeback Mountain (2005)
-61. Broken Arrow (1996)
-62. Cleanskin (2012)
-63. Clear and Present Danger (1994)
-64. Con Air (1997)
-65. Courage Under Fire (1996)
-66. Cry Freedom (1987)
-67. Death Wish (1974)
-68. Donnie Darko (2001)
-69. Eternal Sunshine of the Spotless Mind (2004)
-70. Exodus Gods and Kings (2014)
-71. Fallen (1998)
-72. Glory (1989)
-73. Goodfellas (1990)
-74. Green Zone (2010)
-75. Hard Rain (1998)
-76. Interstellar (2014)
-77. Into the Woods (2014)
-78. It's a Wonderful Life (1946)
-79. Jarhead (2005)
-80. John Doe Vigilante (2014)
-81. Kidnapping Mr. Heineken (2015)
-82. Kill the Messenger (2014)
-83. Kiss Kiss Bang Bang (2005)
+10. After Earth (2013)
+11. American Gangster (2007)
+12. Antwone Fisher (2002)
+13. Assassin (2014)
+14. Assault on Wall Street (2013)
+15. August Osage County (2013)
+16. Beautiful Creatures (2013)
+17. Before I Go to Sleep (2014)
+18. Birdman (2014)
+19. Liar Liar (1997)
+20. Lone Survivor (2013)
+21. Midnight in Paris (2011)
+22. Nightcrawler (2014)
+23. Out of Time (2003)
+24. Paddington (2014)
+25. Passenger 57 (1992)
+26. Philadelphia (1993)
+27. Point Break (1991)
+28. Raging Bull (1980)
+29. Rear Window (1954)
+30. Red Tails (2012)
+31. Ricochet (1991)
+32. Ronin (1998)
+33. Snowpiercer (2013)
+34. Son of a Gun (2014)
+35. Spartan (2004)
+36. St. Vincent (2014)
+37. Stoker (2013)
+38. The 40 Year Old Virgin (2005)
+39. The Big Lebowski (1998)
+40. The Blue Lagoon (1980)
+41. The Call (2013)
+42. The Day After Tomorrow (2004)
+43. The Fugitive (1993)
+44. The Imitation Game (2014)
+45. The Italian Job (2003)
+46. The Last King of Scotland (2006)
+47. The Loft (2015)
+48. The Number 23 (2007)
+49. The Other Woman (2014)
+50. The Physician (2013)
+51. The Road (2009)
+52. The Truman Show (1998)
+53. The Usual Suspects (1995)
+54. The Whistleblower (2010)
+55. The Woman in Black 2 Angel of Death (2014)
+56. There will be Blood (2007)
+57. To Rome with Love (2012)
+58. Training Day (2001)
+59. Under the Skin (2013)
+60. White Bird in a Blizzard (2014)
+61. Boys Don't Cry (1999)
+62. Brokeback Mountain (2005)
+63. Broken Arrow (1996)
+64. Cleanskin (2012)
+65. Clear and Present Danger (1994)
+66. Con Air (1997)
+67. Courage Under Fire (1996)
+68. Cry Freedom (1987)
+69. Death Wish (1974)
+70. Donnie Darko (2001)
+71. Eternal Sunshine of the Spotless Mind (2004)
+72. Exodus Gods and Kings (2014)
+73. Fallen (1998)
+74. Fight Club (1999)
+75. Glory (1989)
+76. Goodfellas (1990)
+77. Green Zone (2010)
+78. Hard Rain (1998)
+79. I am Legend (2007)
+80. Interstellar (2014)
+81. Into the Woods (2014)
+82. It's a Wonderful Life (1946)
+83. Jarhead (2005)
+84. John Doe Vigilante (2014)
+85. Kidnapping Mr. Heineken (2015)
+86. Kill the Messenger (2014)
+87. Kiss Kiss Bang Bang (2005)
 
 #English-3
 1. 12 Monkeys (1995)
@@ -559,71 +575,73 @@
 4. Alvin and the Chipmunks Trilogy
 5. Amercan Pie Octalogy
 6. Back To the Future Trilogy
-7. Batman Trilogy
-8. Beverly Hills Cop Trilogy
-9. Blade Trilogy
-10. Captain America Duology
-11. Crank Duology
-12. Cube Trilogy
-13. Death Race Duology
-14. Die Hard Pentalogy
-15. Dirty Harry Pentalogy
-16. Dumb and Dumber Duology
-17. Fast and Furious Hexalogy
-18. Final Destination Pentalogy
-19. G.I. Joe Duology
-20. Grown Ups Duology
-21. Percy Jackson Duology
-22. Pirates of the Caribbean Quadrilogy
-23. Planet of the Apes Duology
-24. Predator Trilogy
-25. Rambo Quadrilogy
-26. Red Duology
-27. Resident Evil Heptalogy
-28. Ring Duology
-29. Rush Hour Trilogy
-30. Saw Heptalogy
-31. Scream Quadrilogy
-32. Shanghai Duology
-33. Sherlock Holmes Duology
-34. Spiderman Pentalogy
-35. Star Trek All Three Collections
-36. Star Wars Series
-37. Step Up Pentalogy
-38. Taken Trilogy
-39. The Bourne Legacy Quadrilogy
-40. The Chronicles of Narnia Trilogy
-41. The Expendables Trilogy
-42. The Godfather Trilogy
-43. The Haunting in Connecticut Duology
-44. The Hobbit Trilogy
-45. The Human Centipede Duology
-46. The Hunger Games Trilogy
-47. The Lord of the Rings Trilogy
-48. The Mummy Trilogy
-49. The Pink Panther Duology
-50. The Scorpion Trilogy
-51. The Terminator Quadrilogy
-52. Thor Duology
-53. Transformers Quadrilogy
-54. Transporter Trilogy
-55. Under Siege Duology
-56. Underworld Quadrilogy
-57. Wrong Turn Pentalogy
-58. X-Men Heptalogy
-59. Hulk Duology
-60. I Spit on Your Grave Duology
-61. Indiana Jones Quadrilogy
-62. Insidiuos Duology
-63. Iron Man Trilogy
-64. James Bond Complete Series
-65. Jurassic Park Trilogy
-66. Kick-Ass Duology
-67. Kill Bill Duology
-68. Lethal Weapon Quadrilogy
-69. Mad Max Trilogy
-70. Matrix Trilogy
-71. Mission Impossible Quadrilogy
-72. National Treasure Duology
-73. Night at the Museum Trilogy
+7. Bad Boys Duology
+8. Batman Trilogy
+9. Beverly Hills Cop Trilogy
+10. Blade Trilogy
+11. Captain America Duology
+12. Crank Duology
+13. Cube Trilogy
+14. Death Race Duology
+15. Die Hard Pentalogy
+16. Dirty Harry Pentalogy
+17. Dumb and Dumber Duology
+18. Fast and Furious Hexalogy
+19. Final Destination Pentalogy
+20. G.I. Joe Duology
+21. Grown Ups Duology
+22. Percy Jackson Duology
+23. Pirates of the Caribbean Quadrilogy
+24. Planet of the Apes Duology
+25. Predator Trilogy
+26. Rambo Quadrilogy
+27. Red Duology
+28. Resident Evil Heptalogy
+29. Ring Duology
+30. Rush Hour Trilogy
+31. Saw Heptalogy
+32. Scream Quadrilogy
+33. Shanghai Duology
+34. Sherlock Holmes Duology
+35. Spiderman Pentalogy
+36. Star Trek All Three Collections
+37. Star Wars Series
+38. Step Up Pentalogy
+39. Taken Trilogy
+40. The Bourne Legacy Quadrilogy
+41. The Chronicles of Narnia Trilogy
+42. The Expendables Trilogy
+43. The Godfather Trilogy
+44. The Haunting in Connecticut Duology
+45. The Hobbit Trilogy
+46. The Human Centipede Duology
+47. The Hunger Games Trilogy
+48. The Lord of the Rings Trilogy
+49. The Mummy Trilogy
+50. The Pink Panther Duology
+51. The Scorpion Trilogy
+52. The Terminator Quadrilogy
+53. Thor Duology
+54. Transformers Quadrilogy
+55. Transporter Trilogy
+56. Under Siege Duology
+57. Underworld Quadrilogy
+58. Wrong Turn Pentalogy
+59. X-Men Heptalogy
+60. Hulk Duology
+61. I Spit on Your Grave Duology
+62. Indiana Jones Quadrilogy
+63. Insidiuos Duology
+64. Iron Man Trilogy
+65. James Bond Complete Series
+66. Jurassic Park Trilogy
+67. Kick-Ass Duology
+68. Kill Bill Duology
+69. Lethal Weapon Quadrilogy
+70. Mad Max Trilogy
+71. Matrix Trilogy
+72. Men In Black Trilogy
+73. Mission Impossible Quadrilogy
+74. National Treasure Duology
+75. Night at the Museum Trilogy
 
