@@ -25,7 +25,7 @@ def main():
                 for d in dirs:
                     movies = [o for o in os.listdir(os.path.join(movies_path,d)
                      ) if os.path.isdir(os.path.join(movies_path, d, o))]
-
+                    movies.sort()
                     if len(movies):
                         f.write("#%s\n"%(d))
                         for movie in movies:
