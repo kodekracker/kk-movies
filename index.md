@@ -25,32 +25,33 @@
 24. Master and Commander The Far Side of the World (2003)
 25. Patriot Games (1992)
 26. Pearl Harbor (2001)
-27. Pulp Fiction (1994)
-28. Red Dragon (2002)
-29. Rounders (1998)
-30. Seeking Justice (2011)
-31. Seventh Son (2014)
-32. Son of God (2014)
-33. Stone (2010)
-34. Stretch (2014)
-35. The Assassination of Jesse James by the Coward Robert Ford (2007)
-36. The Boy Next Door (2015)
-37. The Corruptor (1999)
-38. The Gambler (2014)
-39. The Game (1997)
-40. The Girl With The Dragon Tattoo (2011)
-41. The Great Escape (1963)
-42. The Island (2005)
-43. The Last of the Mohicans DDC (1992)
-44. The Magnificent Seven (1960)
-45. The People vs. Larry Flynt (1996)
-46. The Rock (1996)
-47. Thief (1981)
-48. Three Kings (1999)
-49. Unbroken (2014)
-50. We Own the Night (2007)
-51. What Lies Beneath (2000)
-52. Witness (1985)
+27. Project Almanac (2014)
+28. Pulp Fiction (1994)
+29. Red Dragon (2002)
+30. Rounders (1998)
+31. Seeking Justice (2011)
+32. Seventh Son (2014)
+33. Son of God (2014)
+34. Stone (2010)
+35. Stretch (2014)
+36. The Assassination of Jesse James by the Coward Robert Ford (2007)
+37. The Boy Next Door (2015)
+38. The Corruptor (1999)
+39. The Gambler (2014)
+40. The Game (1997)
+41. The Girl With The Dragon Tattoo (2011)
+42. The Great Escape (1963)
+43. The Island (2005)
+44. The Last of the Mohicans DDC (1992)
+45. The Magnificent Seven (1960)
+46. The People vs. Larry Flynt (1996)
+47. The Rock (1996)
+48. Thief (1981)
+49. Three Kings (1999)
+50. Unbroken (2014)
+51. We Own the Night (2007)
+52. What Lies Beneath (2000)
+53. Witness (1985)
 
 #English-1
 1. 1408 (2007)
@@ -617,35 +618,36 @@
 43. Red Duology
 44. Resident Evil Heptalogy
 45. Ring Duology
-46. Rush Hour Trilogy
-47. Saw Heptalogy
-48. Scream Quadrilogy
-49. Shanghai Duology
-50. Sherlock Holmes Duology
-51. Spiderman Pentalogy
-52. Star Trek All Three Collections
-53. Star Wars Series
-54. Step Up Pentalogy
-55. Taken Trilogy
-56. The Bourne Legacy Quadrilogy
-57. The Chronicles of Narnia Trilogy
-58. The Expendables Trilogy
-59. The Godfather Trilogy
-60. The Haunting in Connecticut Duology
-61. The Hobbit Trilogy
-62. The Human Centipede Duology
-63. The Hunger Games Trilogy
-64. The Lord of the Rings Trilogy
-65. The Mummy Trilogy
-66. The Pink Panther Duology
-67. The Scorpion Trilogy
-68. The Terminator Quadrilogy
-69. Thor Duology
-70. Transformers Quadrilogy
-71. Transporter Trilogy
-72. Tron Duology
-73. Under Siege Duology
-74. Underworld Quadrilogy
-75. Wrong Turn Pentalogy
-76. X-Men Heptalogy
+46. Robocop Quadrilogy
+47. Rush Hour Trilogy
+48. Saw Heptalogy
+49. Scream Quadrilogy
+50. Shanghai Duology
+51. Sherlock Holmes Duology
+52. Spiderman Pentalogy
+53. Star Trek All Three Collections
+54. Star Wars Series
+55. Step Up Pentalogy
+56. Taken Trilogy
+57. The Bourne Legacy Quadrilogy
+58. The Chronicles of Narnia Trilogy
+59. The Expendables Trilogy
+60. The Godfather Trilogy
+61. The Haunting in Connecticut Duology
+62. The Hobbit Trilogy
+63. The Human Centipede Duology
+64. The Hunger Games Trilogy
+65. The Lord of the Rings Trilogy
+66. The Mummy Trilogy
+67. The Pink Panther Duology
+68. The Scorpion Trilogy
+69. The Terminator Quadrilogy
+70. Thor Duology
+71. Transformers Quadrilogy
+72. Transporter Trilogy
+73. Tron Duology
+74. Under Siege Duology
+75. Underworld Quadrilogy
+76. Wrong Turn Pentalogy
+77. X-Men Heptalogy
 
