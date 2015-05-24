@@ -13,24 +13,79 @@
 
 import os
 import traceback
+import pprint
+import datetime
+import codecs
+
+from jinja2 import FileSystemLoader
+from jinja2 import Environment
+
+def datetimeformat(value, format='%I:%M %p , %d-%m-%Y'):
+    return value.strftime(format)
+
+def createHtml(movies_listing):
+    '''
+    To create index HTML page
+    '''
+    env = Environment(loader=FileSystemLoader('templates'))
+    env.filters['datetimeformat'] = datetimeformat
+    template = env.get_template('index-template.html')
+    output_template = template.render(movies_listing=movies_listing)
+
+    with codecs.open("content/index.html", "wb", "utf-8") as fh:
+        fh.write(output_template)
+
+def createMarkdown(movies_listing):
+    '''
+    To create index Markdown page
+    '''
+    with codecs.open("content/index.md", "wb", "utf-8") as fh:
+        for d in movies_listing:
+            dirname = d["dirname"]
+            movies = d["movies"]
+            fh.write("#%s\n"%(dirname))
+            for movie in movies:
+                fh.write("%d. %s\n"%(movies.index(movie)+1, movie))
+            fh.write("\n")
 
 def main():
+    # a output list of dicts in which each dict contains data of one
+    # particular directory
+    movies_listing = []
     try :
+        # get environment variable value
         movies_path = os.getenv('MOVIES_FOLDER_PATH')
+
+        # check if environment variable exists or not
         if os.path.exists(movies_path):
+
+            # get list of all directories in root directory
             dirs = [d for d in os.listdir(movies_path) if \
             os.path.isdir(os.path.join(movies_path,d))]
 
-            with open("content/index.md", "w") as f:
-                for d in dirs:
-                    movies = [o for o in os.listdir(os.path.join(movies_path,d)
+            # iterate each directory to collect movies list
+            for d in dirs:
+
+                # collect all movies in particular directory
+                movies = [o.decode('utf-8') for o in os.listdir(os.path.join(movies_path,d) \
                      ) if os.path.isdir(os.path.join(movies_path, d, o))]
-                    movies.sort()
-                    if len(movies):
-                        f.write("#%s\n"%(d))
-                        for movie in movies:
-                            f.write("%d. %s\n"%(movies.index(movie)+1, movie))
-                        f.write("\n")
+
+                # sort the names of movies alphabetically
+                movies.sort()
+
+                # check if atleast one movie exist in directory
+                if len(movies):
+                    # append a dict contain a directory data
+                    movies_listing.append({
+                        "dirname" : str(d),
+                        "updated_at" : datetime.datetime.now(),
+                        "movies"  : movies
+                        })
+
+            # pprint.pprint(movies_listing)
+            createMarkdown(movies_listing)
+            createHtml(movies_listing)
+
         else:
             print "Error :: No MOVIES_FOLDER_PATH environment variable set."
 
