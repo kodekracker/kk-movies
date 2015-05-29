@@ -1,4 +1,4 @@
-#Collection
+#Collection-1
 1. 22 Bullets (2010)
 2. 25th Hour (2002)
 3. About a Boy (2002)
@@ -75,6 +75,19 @@
 74. We Own the Night (2007)
 75. What Lies Beneath (2000)
 76. Witness (1985)
+
+#Collection-2
+1. A Few Good Men (1992)
+2. Coherence (2013)
+3. Identity (2003)
+4. Orphan (2009)
+5. Pi (1998)
+6. Syriana (2005)
+7. The Butterfly Effect (2004)
+8. The Ghost Writer (2010
+9. The Hurt Locker (2008)
+10. Unthinkable (2010)
+11. Valkyrie (2008)
 
 #English-1
 1. 1408 (2007)
