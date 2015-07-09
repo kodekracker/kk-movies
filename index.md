@@ -78,16 +78,21 @@
 
 #Collection-2
 1. A Few Good Men (1992)
-2. Coherence (2013)
-3. Identity (2003)
-4. Orphan (2009)
-5. Pi (1998)
-6. Syriana (2005)
-7. The Butterfly Effect (2004)
-8. The Ghost Writer (2010
-9. The Hurt Locker (2008)
-10. Unthinkable (2010)
-11. Valkyrie (2008)
+2. Chappie (2015)
+3. Coherence (2013)
+4. Identity (2003)
+5. Man of Steel (2013)
+6. Orphan (2009)
+7. Pi (1998)
+8. Run All Night (2015)
+9. Syriana (2005)
+10. The Butterfly Effect (2004)
+11. The Ghost Writer (2010
+12. The Hurt Locker (2008)
+13. The Lazarus Effect (2015)
+14. The Pacifier (2005)
+15. Unthinkable (2010)
+16. Valkyrie (2008)
 
 #English-1
 1. 1408 (2007)
