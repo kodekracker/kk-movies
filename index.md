@@ -83,23 +83,28 @@
 4. Chappie (2015)
 5. Coherence (2013)
 6. Furious Seven (2015)
-7. Identity (2003)
-8. Man of Steel (2013)
-9. Orphan (2009)
-10. Pi (1998)
-11. Run All Night (2015)
-12. Syriana (2005)
-13. The Butterfly Effect (2004)
-14. The Ghost Writer (2010)
-15. The Great Train Robbery (1978)
-16. The Hurt Locker (2008)
-17. The Lazarus Effect (2015)
-18. The Pacifier (2005)
-19. Thief (1981)
-20. U Turn (1997)
-21. Unthinkable (2010)
-22. Valkyrie (2008)
-23. Warrior (2011)
+7. Hitman (2007)
+8. Identity (2003)
+9. Mad Max Fury Road (2015)
+10. Man of Steel (2013)
+11. Orphan (2009)
+12. Pi (1998)
+13. Run All Night (2015)
+14. San Andreas (2015)
+15. Syriana (2005)
+16. Terminator Genisys (2015)
+17. The Butterfly Effect (2004)
+18. The Ghost Writer (2010)
+19. The Great Train Robbery (1978)
+20. The Hurt Locker (2008)
+21. The Lazarus Effect (2015)
+22. The Pacifier (2005)
+23. Thief (1981)
+24. Tomorrowland (2015)
+25. U Turn (1997)
+26. Unthinkable (2010)
+27. Valkyrie (2008)
+28. Warrior (2011)
 
 #English-1
 1. 1408 (2007)
@@ -624,79 +629,80 @@
 1. Ace Ventura Duology
 2. Alvin and the Chipmunks Trilogy
 3. Amercan Pie Octalogy
-4. Back To the Future Trilogy
-5. Bad Boys Duology
-6. Batman Trilogy
-7. Beverly Hills Cop Trilogy
-8. Blade Trilogy
-9. Captain America Duology
-10. Crank Duology
-11. Cube Trilogy
-12. Death Race Duology
-13. Die Hard Pentalogy
-14. Dirty Harry Pentalogy
-15. Dumb and Dumber Duology
-16. Fast and Furious Hexalogy
-17. Final Destination Pentalogy
-18. G.I. Joe Duology
-19. Grown Ups Duology
-20. Harry Potter Octalogy
-21. Hostel Trilogy
-22. Hulk Duology
-23. I Spit on Your Grave Duology
-24. Indiana Jones Quadrilogy
-25. Insidiuos Duology
-26. Iron Man Trilogy
-27. James Bond Complete Series
-28. Jurassic Park Trilogy
-29. Kick-Ass Duology
-30. Kill Bill Duology
-31. Lethal Weapon Quadrilogy
-32. Mad Max Trilogy
-33. Matrix Trilogy
-34. Men In Black Trilogy
-35. Mission Impossible Quadrilogy
-36. National Treasure Duology
-37. Night at the Museum Trilogy
-38. Ocean's Trilogy
-39. Percy Jackson Duology
-40. Pirates of the Caribbean Quadrilogy
-41. Planet of the Apes Duology
-42. Predator Trilogy
-43. Rambo Quadrilogy
-44. Red Duology
-45. Resident Evil Heptalogy
-46. Ring Duology
-47. Robocop Quadrilogy
-48. Rush Hour Trilogy
-49. Saw Heptalogy
-50. Scream Quadrilogy
-51. Shanghai Duology
-52. Sherlock Holmes Duology
-53. Spiderman Pentalogy
-54. Star Trek All Three Collections
-55. Star Wars Series
-56. Step Up Pentalogy
-57. Taken Trilogy
-58. The Bourne Legacy Quadrilogy
-59. The Chronicles of Narnia Trilogy
-60. The Expendables Trilogy
-61. The Godfather Trilogy
-62. The Haunting in Connecticut Duology
-63. The Hobbit Trilogy
-64. The Human Centipede Duology
-65. The Hunger Games Trilogy
-66. The Lord of the Rings Trilogy
-67. The Mummy Trilogy
-68. The Pink Panther Duology
-69. The Scorpion Trilogy
-70. The Terminator Quadrilogy
-71. Thor Duology
-72. Transformers Quadrilogy
-73. Transporter Trilogy
-74. Tron Duology
-75. Under Siege Duology
-76. Underworld Quadrilogy
-77. Wrong Turn Pentalogy
-78. X-Men Heptalogy
+4. Avengers Duology
+5. Back To the Future Trilogy
+6. Bad Boys Duology
+7. Batman Trilogy
+8. Beverly Hills Cop Trilogy
+9. Blade Trilogy
+10. Captain America Duology
+11. Crank Duology
+12. Cube Trilogy
+13. Death Race Duology
+14. Die Hard Pentalogy
+15. Dirty Harry Pentalogy
+16. Dumb and Dumber Duology
+17. Fast and Furious Hexalogy
+18. Final Destination Pentalogy
+19. G.I. Joe Duology
+20. Grown Ups Duology
+21. Harry Potter Octalogy
+22. Hostel Trilogy
+23. Hulk Duology
+24. I Spit on Your Grave Duology
+25. Indiana Jones Quadrilogy
+26. Insidiuos Duology
+27. Iron Man Trilogy
+28. James Bond Complete Series
+29. Jurassic Park Trilogy
+30. Kick-Ass Duology
+31. Kill Bill Duology
+32. Lethal Weapon Quadrilogy
+33. Mad Max Trilogy
+34. Matrix Trilogy
+35. Men In Black Trilogy
+36. Mission Impossible Quadrilogy
+37. National Treasure Duology
+38. Night at the Museum Trilogy
+39. Ocean's Trilogy
+40. Percy Jackson Duology
+41. Pirates of the Caribbean Quadrilogy
+42. Planet of the Apes Trilogy
+43. Predator Trilogy
+44. Rambo Quadrilogy
+45. Red Duology
+46. Resident Evil Heptalogy
+47. Ring Duology
+48. Robocop Quadrilogy
+49. Rush Hour Trilogy
+50. Saw Heptalogy
+51. Scream Quadrilogy
+52. Shanghai Duology
+53. Sherlock Holmes Duology
+54. Spiderman Pentalogy
+55. Star Trek All Three Collections
+56. Star Wars Series
+57. Step Up Pentalogy
+58. Taken Trilogy
+59. The Bourne Legacy Quadrilogy
+60. The Chronicles of Narnia Trilogy
+61. The Expendables Trilogy
+62. The Godfather Trilogy
+63. The Haunting in Connecticut Duology
+64. The Hobbit Trilogy
+65. The Human Centipede Duology
+66. The Hunger Games Trilogy
+67. The Lord of the Rings Trilogy
+68. The Mummy Trilogy
+69. The Pink Panther Duology
+70. The Scorpion Trilogy
+71. The Terminator Quadrilogy
+72. Thor Duology
+73. Transformers Quadrilogy
+74. Transporter Trilogy
+75. Tron Duology
+76. Under Siege Duology
+77. Underworld Quadrilogy
+78. Wrong Turn Pentalogy
+79. X-Men Heptalogy
 
