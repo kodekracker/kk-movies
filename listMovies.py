@@ -23,6 +23,12 @@ from jinja2 import Environment
 def datetimeformat(value, format='%I:%M %p , %d-%m-%Y'):
     return value.strftime(format)
 
+def create_output_dir_if_not_exists():
+    curr_dir = os.path.dirname(os.path.abspath(__file__))
+    print curr_dir
+    if not os.path.exists(curr_dir+"/content"):
+        os.makedirs(curr_dir+"/content")
+
 def createHtml(movies_listing):
     '''
     To create index HTML page
@@ -32,14 +38,14 @@ def createHtml(movies_listing):
     template = env.get_template('index-template.html')
     output_template = template.render(movies_listing=movies_listing)
 
-    with codecs.open("content/index.html", "wb", "utf-8") as fh:
+    with codecs.open("content/index.html", "w+", "utf-8") as fh:
         fh.write(output_template)
 
 def createMarkdown(movies_listing):
     '''
     To create index Markdown page
     '''
-    with codecs.open("content/index.md", "wb", "utf-8") as fh:
+    with codecs.open("content/index.md", "w+", "utf-8") as fh:
         for d in movies_listing:
             dirname = d["dirname"]
             movies = d["movies"]
@@ -83,6 +89,7 @@ def main():
                         })
 
             # pprint.pprint(movies_listing)
+            create_output_dir_if_not_exists()
             createMarkdown(movies_listing)
             createHtml(movies_listing)
 
