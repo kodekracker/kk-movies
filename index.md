@@ -100,28 +100,26 @@
 21. Run All Night (2015)
 22. San Andreas (2015)
 23. Southpaw (2015)
-24. Spectre (2015)
-25. Steve Jobs (2015)
-26. Syriana (2005)
-27. Terminator Genisys (2015)
-28. The Butterfly Effect (2004)
-29. The Ghost Writer (2010)
-30. The Great Train Robbery (1978)
-31. The Hateful Eight (2015)
-32. The Hurt Locker (2008)
-33. The Lazarus Effect (2015)
-34. The Martian (2015)
-35. The Pacifier (2005)
-36. The Pianist (2002)
-37. The Revenant (2015)
-38. Thief (1981)
-39. Tomorrowland (2015)
-40. U Turn (1997)
-41. Unforgiven (1992)
-42. Unthinkable (2010)
-43. Valkyrie (2008)
-44. Vertigo (1958)
-45. Warrior (2011)
+24. Steve Jobs (2015)
+25. Syriana (2005)
+26. The Butterfly Effect (2004)
+27. The Ghost Writer (2010)
+28. The Great Train Robbery (1978)
+29. The Hateful Eight (2015)
+30. The Hurt Locker (2008)
+31. The Lazarus Effect (2015)
+32. The Martian (2015)
+33. The Pacifier (2005)
+34. The Pianist (2002)
+35. The Revenant (2015)
+36. Thief (1981)
+37. Tomorrowland (2015)
+38. U Turn (1997)
+39. Unforgiven (1992)
+40. Unthinkable (2010)
+41. Valkyrie (2008)
+42. Vertigo (1958)
+43. Warrior (2011)
 
 #English-1
 1. 1408 (2007)
@@ -714,7 +712,7 @@
 69. The Mummy Trilogy
 70. The Pink Panther Duology
 71. The Scorpion Trilogy
-72. The Terminator Quadrilogy
+72. The Terminator Pentalogy
 73. Thor Duology
 74. Transformers Quadrilogy
 75. Transporter Trilogy
